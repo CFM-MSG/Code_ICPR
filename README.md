@@ -9,8 +9,8 @@ torchvision == 0.11
 ```
 
 ## Data preparation
-Office, Office-Home, VisDA-C, Office-Home (RSUT), VisDA-C (RSUT), and DomainNet can be found in [ISFDA](https://github.com/LeoXinhaoLee/Imbalanced-Source-free-Domain-Adaptation).
-Note that these datasets are publicly available and have been widely used in the community.
+Office, Office-Home, VisDA-C, Office-Home (RSUT), VisDA-C (RSUT), and DomainNet can be found in the related repo [ISFDA](https://github.com/LeoXinhaoLee/Imbalanced-Source-free-Domain-Adaptation).
+Note that these datasets are publicly available and have been widely used in the related research community.
 
 ## Training and adaptation
 Taking the VisDA dataset as an example, the training command is:
